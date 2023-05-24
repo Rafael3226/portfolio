@@ -53,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Security",
+    title: "Cybersecurity",
     icon: creator,
   },
 ];
