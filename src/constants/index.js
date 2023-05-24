@@ -144,7 +144,7 @@ const experiences = [
     title: "Web Developer",
     company_name: "SYC",
     icon: syc,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "Jan 2022 - Jan 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
